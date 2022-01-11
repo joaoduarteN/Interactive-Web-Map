@@ -6,4 +6,5 @@ Later, I will implement a geolocation system in the map.
 
 
 Credits to Ardit Sulce, professor of the course I'm taking on Udemy, where I learned about the Folium library, and where I got the csv and json files used in the program.
-Link to the course: shorturl.at/guEU1
+<br>
+Link to the course: <a href="shorturl.at/guEU1" target="_blank"></a>
