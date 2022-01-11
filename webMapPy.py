@@ -46,11 +46,11 @@ style_function=lambda x:{"fillColor":"green" if x["properties"]["POP2005"] < 100
 else "yellow" if 10000000 <= x["properties"]["POP2005"]< 20000000
 else "orange" if 20000000 <= x["properties"]["POP2005"]< 40000000
 else "red" if 40000000 <= x["properties"]["POP2005"]< 1000000000
-else "darkRed"})) #in y, we find this "place"in the json file
+else "darkRed"})) #in x, we find this "place" in the json file
 
 
-map1.add_child(group)
 map1.add_child(group2)
+map1.add_child(group)
 
 #Now that we have some different layers, let's add a layer control in the program:
 map1.add_child(folium.LayerControl())
