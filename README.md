@@ -11,4 +11,4 @@ Later, I will implement a geolocation system in the map.
 
 Credits to Ardit Sulce, professor of the course I'm taking on Udemy, where I learned about the Folium library, and where I got the csv and json files used in the program.
 <br>
-Link to the course: <a href="shorturl.at/guEU1">Udemy course</a>
+Link to the course: <a href="https://www.udemy.com/course/the-python-mega-course/?src=sac&kw=the+python+mega+course">Udemy course</a>
